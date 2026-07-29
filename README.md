@@ -1,5 +1,5 @@
 # Equipo-B00
-Primer repositorio de bioinformática
+Repositorio del equipo para el desarrollo de actividades de Bioinformática enfocadas en el análisis de expresión génica mediante RNA-Seq.
 
 # Análisis de expresión génica mediante RNA-Seq
 ## Descripción
@@ -15,13 +15,23 @@ Este proyecto tiene como objetivo analizar secuencias de RNA (RNA-Seq) como expr
 
 ## Estructura del proyecto
 
-data/ Datos de entrada
-scripts/ Scripts de análisis
-results/ Resultados obtenidos
-docs/ documentación
+**data**/ Datos de entrada
+**scripts**/ Scripts de análisis
+**results**/ Resultados obtenidos
+**docs**/ Documentación del proyecto
 
+## Requisitos
+
+- Git
+- R (versión 4.0 o superior)
+- RStudio
+- FastQC
+- HISAT2
+- DESeq2
+  
 ## Autor José Andrés Zertuche
+## Autor Diana Alejandra Rubio Delgado
 
 ## Licencia
-
+Mozilla Public License 2.0
 Mozilla Public License 2.0
