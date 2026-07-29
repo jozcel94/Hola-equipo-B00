@@ -15,10 +15,10 @@ Este proyecto tiene como objetivo analizar secuencias de RNA (RNA-Seq) como expr
 
 ## Estructura del proyecto
 
-**data**/ Datos de entrada
-**scripts**/ Scripts de análisis
-**results**/ Resultados obtenidos
-**docs**/ Documentación del proyecto
+data/ Datos de entrada
+scripts/ Scripts de análisis
+results/ Resultados obtenidos
+docs/ Documentación del proyecto
 
 ## Requisitos
 
