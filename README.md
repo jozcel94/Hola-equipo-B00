@@ -34,4 +34,3 @@ Este proyecto tiene como objetivo analizar secuencias de RNA (RNA-Seq) como expr
 
 ## Licencia
 Mozilla Public License 2.0
-Mozilla Public License 2.0
