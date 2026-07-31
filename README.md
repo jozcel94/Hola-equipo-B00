@@ -19,6 +19,12 @@ Este proyecto tiene como objetivo analizar secuencias de RNA (RNA-Seq) como expr
 - **scripts/**: Scripts de análisis.
 - **results/**: Resultados obtenidos.
 - **docs/**: Documentación del proyecto.
+- **figures/**: Diagramas e imagenes del proyecto.
+
+## Pipeline de análisis
+
+- El siguiente diagrama resume el flujo general del análisis de RNA-Seq empleado en este proyecto.
+![Pipeline de RNA-Seq](figures/pipeline_rna_seq.png)
 
 ## Requisitos
 
@@ -34,3 +40,4 @@ Este proyecto tiene como objetivo analizar secuencias de RNA (RNA-Seq) como expr
 
 ## Licencia
 Mozilla Public License 2.0
+
